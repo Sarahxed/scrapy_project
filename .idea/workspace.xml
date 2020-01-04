@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba671ead-492e-43e5-822d-9072337bcfb4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/.idea/scrapydownloadertest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/spiders/httpbin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapydownloadertest/start.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba671ead-492e-43e5-822d-9072337bcfb4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="httpbin.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/spiders/httpbin.py">
+      <file leaf-file-name="tencenthr.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/tencenthr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="133">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="21" />
               <folding>
-                <element signature="e#24#35#0" expanded="true" />
+                <element signature="e#24#61#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quotes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/quotes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -69,9 +63,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="248" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-329" />
+    <option name="y" value="389" />
     <option name="width" value="1378" />
     <option name="height" value="656" />
   </component>
@@ -91,31 +85,20 @@
             <path>
               <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,20 +250,6 @@
     <entry file="file://$PROJECT_DIR$/tencent/tencent/pipelines.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/tencenthr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/quotes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
@@ -336,6 +305,23 @@
           <folding>
             <element signature="e#24#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/tencenthr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/quotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
