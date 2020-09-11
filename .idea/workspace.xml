@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba671ead-492e-43e5-822d-9072337bcfb4" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="ba671ead-492e-43e5-822d-9072337bcfb4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scrapy_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrapy_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/spiders/gordon_discuss.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/spiders/gordon_discuss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/start.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,122 +24,30 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/scrapy_project$start.coverage" NAME="start Coverage Results" MODIFIED="1577958850228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapydownloadertest" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="tencenthr.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/tencenthr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="21" />
-              <folding>
-                <element signature="e#24#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quotes.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/quotes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/quotes.py" />
-        <option value="$PROJECT_DIR$/csdn/csdn/items.py" />
-        <option value="$PROJECT_DIR$/csdn/csdn/spiders/csdn_page_turn.py" />
-        <option value="$PROJECT_DIR$/tencent/tencent/spiders/tencenthr.py" />
-        <option value="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/spiders/httpbin.py" />
-        <option value="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/settings.py" />
-        <option value="$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/pipelines.py" />
-        <option value="$PROJECT_DIR$/tutorial/tutorial/pipelines.py" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-329" />
-    <option name="y" value="389" />
-    <option name="width" value="1378" />
-    <option name="height" value="656" />
-  </component>
+  <component name="ProjectId" id="1gtYY3RtU0ntrXeXSQhzsBnNTPb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_project" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Flask_Project/flask_api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -148,6 +68,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -165,165 +88,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577016213928</updated>
+      <workItem from="1598935406663" duration="6503000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="85" y="248" width="1378" height="656" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14956331" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.11563518" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13050076" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.279476" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.11563518" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/csdn/csdn/spiders/csdn_page_turn.py" />
-    <entry file="file://$PROJECT_DIR$/csdn/csdn/items.py" />
-    <entry file="file://$PROJECT_DIR$/tianyaspider/tianyaspider/spiders/tianya.py" />
-    <entry file="file://$PROJECT_DIR$/csdn/csdn/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/csdn/csdn/items.py" />
-    <entry file="file://$PROJECT_DIR$/csdn/csdn/spiders/csdn.txt" />
-    <entry file="file://$PROJECT_DIR$/csdn/csdn/spiders/csdn_page_turn.py" />
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/scrapy/middleware.py" />
-    <entry file="file://F:/python/Lib/site-packages/scrapy/pipelines/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/scrapy/crawler.py" />
-    <entry file="file://F:/python/Lib/site-packages/twisted/internet/defer.py" />
-    <entry file="file://F:/python/Lib/site-packages/scrapy/core/scraper.py" />
-    <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapydownloadertest/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/python/Lib/site-packages/scrapy/utils/project.py" />
-    <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/spiders/httpbin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/tencenthr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="e#24#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/quotes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="555" y="178" key="FileChooserDialogImpl" timestamp="1599198916447">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="555" y="178" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1599198916447" />
+    <state x="381" y="90" key="SettingsEditor" timestamp="1599042073164">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="381" y="90" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1599042073164" />
   </component>
 </project>
