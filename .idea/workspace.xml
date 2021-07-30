@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba671ead-492e-43e5-822d-9072337bcfb4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scrapy_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrapy_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaoBao/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/img/origin_code_pic_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/img/pic_remove_line_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/img/process_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/tessocr_code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/spiders/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/spiders/gordon_discuss.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/spiders/gordon_discuss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/HK_Gordon_Discuss_Forum/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum/hk_gordon_discuss_forum/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HK_Gordon_Discuss_Forum" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +19,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/scrapy_project$start.coverage" NAME="start Coverage Results" MODIFIED="1577958850228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapydownloadertest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,8 +37,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Flask_Project/flask_api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tools" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,7 +55,81 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github_projects\scrapy_project\tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github_projects\scrapy_project\tools\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.start (1)">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaoBao/TaoBao/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TaoBao/TaoBao/spiders/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="proxy_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaoBao/TaoBao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TaoBao/TaoBao/proxy_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaoBao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TaoBao/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scrapy_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,12 +152,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaoBao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\github_projects\scrapy_project\TaoBao\start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.proxy_utils" />
         <item itemvalue="Python.start" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -89,20 +196,30 @@
       <option name="presentableId" value="Default" />
       <updated>1577016213928</updated>
       <workItem from="1598935406663" duration="6503000" />
+      <workItem from="1627288493811" duration="11266000" />
+      <workItem from="1627306747692" duration="29203000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="555" y="178" key="FileChooserDialogImpl" timestamp="1599198916447">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="555" y="178" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1599198916447" />
-    <state x="381" y="90" key="SettingsEditor" timestamp="1599042073164">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="381" y="90" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1599042073164" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scrapy_project$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1627381817969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TaoBao" />
+    <SUITE FILE_PATH="coverage/scrapy_project$demo.coverage" NAME="demo Coverage Results" MODIFIED="1627376278074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TaoBao/TaoBao/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy_project$srart.coverage" NAME="start Coverage Results" MODIFIED="1627363171512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TaoBao" />
+    <SUITE FILE_PATH="coverage/scrapy_project$proxy_utils.coverage" NAME="proxy_utils Coverage Results" MODIFIED="1627310343646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TaoBao/TaoBao" />
   </component>
 </project>
